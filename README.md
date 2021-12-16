@@ -16,3 +16,14 @@
 ## Parsing Bottom-Up
 
 ## Analisi Semantica
+
+
+# Convetions
+
+## Input Grammars 
+    struct production {
+      char driver;
+      char** body;
+    }
+
+    production* grammar;
