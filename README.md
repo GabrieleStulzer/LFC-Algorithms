@@ -5,13 +5,14 @@
 - Pumping lemma
 
 ## NFA and DFA
-- Costruzione di Thompson
-- Simulazione Automa
 - Traduzione NFA-DFA
 - Minimizzazione DFA
 - Pumping Lemma per linguaggi regolari
 
 ## Parsing Top-Down
+- First & Follow
+- Create a parsing table
+- Left recursing grammars
 
 ## Parsing Bottom-Up
 
