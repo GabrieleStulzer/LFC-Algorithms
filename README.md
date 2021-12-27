@@ -2,7 +2,7 @@
 
 ## Context-free languages
 - Epurare Grammatiche Libere
-- Pumping lemma
+- Pumping lemma per context-free language
 
 ## NFA and DFA
 - Traduzione NFA-DFA
